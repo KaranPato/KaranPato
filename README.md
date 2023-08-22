@@ -1,3 +1,2 @@
 ### Hi Geeks, this is Karano 👋
-### 🔭 I’m currently working on .Net
-### 🌱 I’m currently learning Micro Frontends
+### 🔭 I’m working as a full-stack developer
